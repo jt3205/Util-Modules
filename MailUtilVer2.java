@@ -33,9 +33,9 @@ public class MailUtil {
 	JavaMailSender mailSender;
 
 	public static Message message = null;
-	private static String HOST = "52.78.85.201";
-	private static String SMTP_USERNAME = "AKIAJHFU52CXNJDUTWCQ";
-	private static String SMTP_PASSWORD = "AoQo/BbPW21JBi1AOl/Mp0dmlsGO2aYrY8ZW4XiRw9Ss";
+	private static String HOST = "";
+	private static String SMTP_USERNAME = "";
+	private static String SMTP_PASSWORD = "";
 	private static Session session;
 	private static Transport transport;
 
