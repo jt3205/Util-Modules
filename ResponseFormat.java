@@ -1,5 +1,3 @@
-package net.openobject.tmmm.util;
-
 import lombok.Data;
 
 /**
